@@ -1,7 +1,5 @@
 #LIST COMPREHENSION ::::
 #1. i want 'n' for each 'n' in nums
-from idlelib.colorizer import prog_group_name_to_tag
-from idlelib.debugobj import myrepr
 
 # nums = [1,2,3,4,5,6,7,8,9,10]
 # my_list = []
